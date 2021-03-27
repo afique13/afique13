@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <hr ></ hr>
 
-#### I am a second year Computer Science student in Universiti Malaya
+### I am a second year Computer Science student in Universiti Malaya
 <br>
 
 * :page_with_curl: Currently majoring in Computer System and Network
