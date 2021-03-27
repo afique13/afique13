@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### I am a second year Computer Science student in Universiti Malaya
 <br>
 
-* :page_with_curl: Currently majoring in Compter System and Network
+* :page_with_curl: Currently majoring in Computer System and Network
 * :computer: On the road to full-stack web development
 * 🤖 Interested in topics on AI, DeFi and data science
 * 🚀 Sci-fi movie enthusiast 
