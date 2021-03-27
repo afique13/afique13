@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Afiq 👋
 
 <!--
 **afique13/afique13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I am a 2nd year Computer Science student majoring in Computer Systems and Networks in Universiti Malaya
