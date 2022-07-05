@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 * :computer: On the road to full-stack web development
 * 🤖 Interested in topics on AI, DeFi and data science
 * 🚀 Sci-fi movie enthusiast 
-* 🎮 Video games are my lifeline
 * 📖 Avid reader
 * ✳️ Currently learning front-end web development
 * ✉️ You can reach me at afique13@gmail.com
